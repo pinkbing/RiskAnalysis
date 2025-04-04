@@ -1,6 +1,6 @@
 **RISK ANALYSIS COURSEWORK**
 
-**Data**:_stock_price.csv_
+**Dataset**: _stock_price.csv_
 
 adjusted closing prices for the following five stocks: AAPL, MSFT, IBM, Nvidia, Alpahbet, Amazon for the period spanning January 1, 2014, to December 31, 2024.
  
