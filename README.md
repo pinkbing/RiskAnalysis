@@ -3,7 +3,7 @@ adjusted closing prices for the following five stocks: AAPL, MSFT, IBM, Nvidia, 
  
  
 1) VAR MODELLING
-<img width="534" alt="image" src="https://github.com/user-attachments/assets/c2824a5a-b36d-4175-a9c8-a61f4017c046" />
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/29d841a4-f385-40b0-9b17-369aef652eee" />
 
 MATLAB code: _StatisticalAnalysis.m_ and _VaR_Rolling6months.m_
 
@@ -13,7 +13,7 @@ MATLAB code: _StatisticalAnalysis.m_ and _VaR_Rolling6months.m_
 MATLAB code: _VaR_Decomposition_Parametric_Approach_ and _VaR_Decomposition_Non_Parametric_Approach_
 
 3) ESTIMATING THE PROBABILITY OF LOOSING
-<img width="545" alt="image" src="https://github.com/user-attachments/assets/738edd4f-6c22-4958-8f1e-a2e09202782a" />
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/b5a6ad0e-938b-4cf8-9751-c32a5c7a5c91" />
 
 MATLAB code: _Bootstrap_Multiperiod.m_
  
